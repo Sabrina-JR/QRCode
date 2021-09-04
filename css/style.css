@@ -27,7 +27,6 @@ body{
 
 img{
     width: 300px;
-    max-width: 300px;
 }
 
 .box{
@@ -56,6 +55,11 @@ img{
     .container{
         width: 300px;
     }
+
+    img{
+        width: 200px;
+    }
+
     .box{
         margin-top: 2rem;
         width: 250px;
