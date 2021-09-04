@@ -37,13 +37,13 @@ img{
 
 .introduce{
     margin:  auto;
-    width: 250px;
+    width: 280px;
     line-height: 2;  
 }
 
 .introduce>h2{
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .introduce>h3{
